@@ -1,0 +1,54 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.0.4 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/klay/robot_workspace/build/panda_data
+-- Install configuration: ""
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/ament_index/resource_index/package_run_dependencies/panda_data
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/ament_index/resource_index/parent_prefix_path/panda_data
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/environment/ament_prefix_path.sh
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/environment/ament_prefix_path.dsv
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/environment/path.sh
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/environment/path.dsv
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/local_setup.bash
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/local_setup.sh
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/local_setup.zsh
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/local_setup.dsv
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/package.dsv
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/ament_index/resource_index/packages/panda_data
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/cmake/panda_dataConfig.cmake
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/cmake/panda_dataConfig-version.cmake
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/package.xml
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/setup_assistant.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/moveit_rviz.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/move_group.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/demo.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/spawn_controllers.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/rsp.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/static_virtual_joint_tfs.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/launch/warehouse_db.launch.py
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/ros2_controllers.yaml
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/initial_positions.yaml
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/panda.urdf.xacro
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/panda.srdf
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/pilz_cartesian_limits.yaml
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/moveit.rviz
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/moveit_controllers.yaml
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/kinematics.yaml
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/joint_limits.yaml
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/config/panda.ros2_control.xacro
+-- Installing: /home/klay/robot_workspace/install/panda_data/share/panda_data/.setup_assistant
